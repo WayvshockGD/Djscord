@@ -1,4 +1,3 @@
 <div align=center>
-  <img src="./images/Djscord.png" width=256>
-  <h1>Djscord</h1>
+  <img src="./images/Djscord.png" height=1024>
 </div>
