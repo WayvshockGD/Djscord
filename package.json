@@ -1,0 +1,33 @@
+{
+  "name": "djscord",
+  "version": "0.0.1",
+  "description": "Djscord is a new and lightweight Node.js wrapper that interfaces with the Discord API",
+  "main": "./src/index.js",
+  "typings": "./typings.d.ts",
+  "scripts": {
+    "test": "node test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FHGDev/Djscord.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "FHGDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FHGDev/Djscord/issues"
+  },
+  "homepage": "https://github.com/FHGDev/Djscord#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "ws": "^8.2.1"
+  },
+  "devDependencies": {
+    "@discordjs/opus": "^0.6.0",
+    "@discordjs/voice": "^0.6.0",
+    "@types/node": "^12.20.21",
+    "ffmpeg-static": "^4.4.0"
+  }
+}
