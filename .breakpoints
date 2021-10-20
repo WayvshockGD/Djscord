@@ -3,16 +3,16 @@
     "src/gateway/handler.js": [
       {
         "id": "f87ff8b0-5241-4765-8efc-9b76329f220b",
-        "line": 41,
-        "version": 3047,
-        "index": 1246
+        "line": 9,
+        "version": 3617,
+        "index": 401
       }
     ],
     "src/gateway/websocket.js": [
       {
         "id": "496604ac-389c-4c82-9a43-0d8672651303",
         "line": 15,
-        "version": 407,
+        "version": 603,
         "index": 251
       }
     ]
